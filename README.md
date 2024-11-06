@@ -8,6 +8,7 @@ Quick links to sections in this repo:
      - [Custom keybinds](#custom-keybinds)
  - [Fonts](#fonts)
  - [Screenshots](#screenshots)
+ - [Installation](#installation)
 
 ## Overview:
 
