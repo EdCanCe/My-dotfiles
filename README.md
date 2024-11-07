@@ -37,7 +37,7 @@ These are my custom keybinds to execute commands in Qtile:
 
 ## Fonts:
 
-To achieve the same look, make sure to install these fonts::
+To achieve the same look, make sure to install these fonts:
 
  - [**IBM Plex Mono**](https://fonts.google.com/specimen/IBM+Plex+Mono?query=ibm+plex+mono) *(Used in terminal and VSCode)*
  - [**Montserrat**](https://fonts.google.com/specimen/Montserrat) *(Used in bar widgets)*
