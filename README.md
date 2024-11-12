@@ -20,6 +20,7 @@ These dotfiles enhance the visuals and behavior of the following applications, b
  - [**Qtile**](https://qtile.org/) *(Window manager)*
  - [**Rofi**](https://github.com/davatorium/rofi) *(App launcher)*
  - [**Oh My Bash**](https://github.com/ohmybash/oh-my-bash) *(BASH configuration)*
+ - [**Scrot**](https://github.com/resurrecting-open-source-projects/scrot) *(Screenshots)*
 
 For a matching VSCode theme, install [Retrowave Sunset](https://marketplace.visualstudio.com/items?itemName=EdCanCe.retrowave-sunset-theme), which matches the color scheme used in the setup.
 
